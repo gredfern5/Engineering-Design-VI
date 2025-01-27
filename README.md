@@ -19,7 +19,7 @@
 
 ---
 
- [George's GitHub]([https://www.example.com](https://github.com/gredfern5/Engineering-Design-VI))
+ [George's GitHub](https://github.com/gredfern5/Engineering-Design-VI)
 
 ![alt text](image.jpg)
 
