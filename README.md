@@ -4,6 +4,8 @@
 
 **Electrical Engineering**  *Expected May 2026*
 
+---
+
 > Classes I'm Interested in:
 
 1. Engineering Design VI
