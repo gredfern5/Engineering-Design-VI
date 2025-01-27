@@ -1,27 +1,25 @@
 
-# Heading 1
-## Heading 2
+# Heading 1 
+## Heading 2 
 ### Heading 3
 
-**bold text**
-
-*italicized text*
+**bold text**  *italicized text*
 
 > blockquote
 
-1. First item
-2. Second item
-3. Third item
+1. 1st ordered list item
+2. 2nd ordered list item
+3. 3rd ordered list item
 
-- First item
-- Second item
-- Third item
+- Unordered item 1
+- Unordered item 2
+- Unordered item 3
 
 `code`
 
-	---
+---
 
- [title](https://www.example.com)
+ [George's GitHub](https://www.example.com)
 
 ![alt text](image.jpg)
 
