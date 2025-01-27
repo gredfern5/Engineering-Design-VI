@@ -20,5 +20,5 @@
 
  [George's GitHub](https://github.com/gredfern5/Engineering-Design-VI)
 
-![alt text](image.jpg)
+![Pic of George](GeorgeRedfernGitHub.jpg)
  
