@@ -1,23 +1,22 @@
+# George Redfern Portfolio
+## Stevens Institute of Technology
+### Hoboken, NJ
 
-# Heading 1 
-## Heading 2 
-### Heading 3
+**Electrical Engineering**  *Expected May 2026*
 
-**bold text**  *italicized text*
+> Classes I'm Interested in:
 
-> blockquote
+1. Engineering Design VI
+2. Introduction to Power Engineering
+3. Introduction to Electric Power Systems
 
-1. 1st ordered list item
-2. 2nd ordered list item
-3. 3rd ordered list item
+`Some of my Hobbies:`
 
-- Unordered item 1
-- Unordered item 2
-- Unordered item 3
+- Powerlifting
+- Piano
+- Investing
 
-`code`
-
----
+    ---
 
  [George's GitHub](https://github.com/gredfern5/Engineering-Design-VI)
 
