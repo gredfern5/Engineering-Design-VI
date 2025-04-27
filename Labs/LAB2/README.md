@@ -139,7 +139,7 @@ Document results to GitHub repository.
 ---
 
 ---
-### man uname: opens the manual page for the 'uname' command. Manual pages show documentation about commands. (Had to use Get-Help because I am in windows0
+### man uname: opens the manual page for the 'uname' command. Manual pages show documentation about commands. (Had to use Get-Help because I am in windows)
 ---
 ![image](https://github.com/user-attachments/assets/f2dab83e-2fec-4392-a050-402a9056cc00)
 ---
