@@ -40,19 +40,19 @@ Document results to GitHub repository.
 ---
 
 ---
-## ps: gives info about running processes on the computer
+### ps: gives info about running processes on the computer
 ---
 IMGs
 ---
 
 ---
-## pwd: shows full path of the current directory you are in
+### pwd: shows full path of the current directory you are in
 ---
 IMGs
 ---
 
 ---
-## git clone https://github.com/kevinwlu/iot.git: This command clones the git repository from the given website. Ensure Git is installed for the command to function. In this instance, it clones the IOT repository.
+### git clone https://github.com/kevinwlu/iot.git: This command clones the git repository from the given website. Ensure Git is installed for the command to function. In this instance, it clones the IOT repository.
 ---
 IMGs
 ---
