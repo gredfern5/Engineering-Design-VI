@@ -20,4 +20,5 @@
 ![image](https://github.com/user-attachments/assets/89c26fd4-253b-4682-8a1f-7838f198c188)
 
 ### Step 2: Starting DJango Project
+  -Started the Django project named "stevens' by executing the command: _django-admin startproject stevens_
 
