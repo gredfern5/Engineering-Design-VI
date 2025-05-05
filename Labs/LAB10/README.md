@@ -21,6 +21,6 @@ $ cat hash_value.py
 $ python hash_value.py
 $ python hash_value.py
 
-![image](https://github.com/user-attachments/assets/c78066c2-4642-4312-b6f9-338583a5ca10)
+![image](https://github.com/user-attachments/assets/8430fd27-878e-4f7e-8238-7effcc8dd3fd)
 
 ```
