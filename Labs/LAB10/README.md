@@ -79,6 +79,7 @@ I had to Resync to fix the server, and clicked request to mine to mine.
 Result of Mine:
 ![image](https://github.com/user-attachments/assets/ba29d1ec-592c-4721-92bb-650210ede21e)
 Additional Images:
+![image](https://github.com/user-attachments/assets/f4ec5e96-5763-4cfc-8099-1c7e97130b1c)
 ![image](https://github.com/user-attachments/assets/3f5b8cb8-7ad5-4f3a-bd58-b71d55f8bbe7)
 ![image](https://github.com/user-attachments/assets/2313da8f-c948-42f9-964b-2d5a9df2d4b6)
 
